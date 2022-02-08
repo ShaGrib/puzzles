@@ -1,0 +1,13 @@
+C:\Users\Aluni\Downloads\coding_dojo\c#\wk1\d1\puzzles\bin\Debug\netcoreapp3.1\puzzles.exe
+C:\Users\Aluni\Downloads\coding_dojo\c#\wk1\d1\puzzles\bin\Debug\netcoreapp3.1\puzzles.deps.json
+C:\Users\Aluni\Downloads\coding_dojo\c#\wk1\d1\puzzles\bin\Debug\netcoreapp3.1\puzzles.runtimeconfig.json
+C:\Users\Aluni\Downloads\coding_dojo\c#\wk1\d1\puzzles\bin\Debug\netcoreapp3.1\puzzles.runtimeconfig.dev.json
+C:\Users\Aluni\Downloads\coding_dojo\c#\wk1\d1\puzzles\bin\Debug\netcoreapp3.1\puzzles.dll
+C:\Users\Aluni\Downloads\coding_dojo\c#\wk1\d1\puzzles\bin\Debug\netcoreapp3.1\puzzles.pdb
+C:\Users\Aluni\Downloads\coding_dojo\c#\wk1\d1\puzzles\obj\Debug\netcoreapp3.1\puzzles.csprojAssemblyReference.cache
+C:\Users\Aluni\Downloads\coding_dojo\c#\wk1\d1\puzzles\obj\Debug\netcoreapp3.1\puzzles.AssemblyInfoInputs.cache
+C:\Users\Aluni\Downloads\coding_dojo\c#\wk1\d1\puzzles\obj\Debug\netcoreapp3.1\puzzles.AssemblyInfo.cs
+C:\Users\Aluni\Downloads\coding_dojo\c#\wk1\d1\puzzles\obj\Debug\netcoreapp3.1\puzzles.csproj.CoreCompileInputs.cache
+C:\Users\Aluni\Downloads\coding_dojo\c#\wk1\d1\puzzles\obj\Debug\netcoreapp3.1\puzzles.dll
+C:\Users\Aluni\Downloads\coding_dojo\c#\wk1\d1\puzzles\obj\Debug\netcoreapp3.1\puzzles.pdb
+C:\Users\Aluni\Downloads\coding_dojo\c#\wk1\d1\puzzles\obj\Debug\netcoreapp3.1\puzzles.genruntimeconfig.cache
